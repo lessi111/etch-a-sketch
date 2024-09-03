@@ -5,18 +5,3 @@
 body {
   background-color: #ddd;
 }
-
-.container {
-  display: flex;
-  flex-direction: column;
-}
-
-.row {
-  display: flex;
-}
-
-.item {
-  border: 1px solid black;
-  width: 0.75em;
-  height: 0.75em;
-}
